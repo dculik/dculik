@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel
-- 👀 I’m interested in Bash,Python and Linux as a whole. 
+- 👀 I’m interested in Bash, Python and Linux as a whole. 
 - 🌱 I’m currently learning quality programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
